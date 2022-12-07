@@ -1,0 +1,50 @@
+{
+  "notes": [
+    {
+      "text": "I would go to the shop",
+      "id": 2
+    },
+    {
+      "text": "winter is comming",
+      "id": 3
+    },
+    {
+      "text": "I like bmw",
+      "id": 4
+    },
+    {
+      "text": "something about sport",
+      "id": 7
+    },
+    {
+      "text": "I need to buy milk",
+      "id": 9
+    },
+    {
+      "text": "what else ...",
+      "id": 10
+    }
+  ],
+  "tags": [
+    {
+      "text": "sport",
+      "id": 1
+    },
+    {
+      "text": "shop",
+      "id": 2
+    },
+    {
+      "text": "car",
+      "id": 3
+    },
+    {
+      "text": "bmw",
+      "id": 10
+    },
+    {
+      "text": "milk",
+      "id": 11
+    }
+  ]
+}
